@@ -1,5 +1,5 @@
 let listaNumerosSorteados = [];
-let limiteLista = 10;
+let limiteLista = 100;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 mensagemInicial();
@@ -74,7 +74,7 @@ function reiniciarJogo() {
 
 
 
-/**olaMundo();
+/**olaMundo();.
 
 olaUsuario(prompt(`Informe o seu nome:`));
 
